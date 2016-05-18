@@ -1,0 +1,22 @@
+{
+  "name": "na-websocket",
+  "version": "0.0.0",
+  "description": "websocket server for naval action",
+  "main": "app.js",
+  "dependencies": {
+    "socket.io": "~1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Rodrive/na-websocket.git"
+  },
+  "author": "Rodrive",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rodrive/na-websocket/issues"
+  }
+}
